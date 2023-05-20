@@ -1,6 +1,8 @@
-# Auth codealong with Van
+# Authen codealong with Van
 
-npm intall / 
+`npm install`  
+`npm install --save mongoose`
+`npm run dev`
 
 
 ## Getting started
